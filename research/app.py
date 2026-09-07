@@ -44,7 +44,8 @@ def get_weather_data(city: str) -> str:
 
 
 # Tavily search tool
-search_tool = TavilySearchResults(max_results=5)
+search_tool = TavilySearchResults(max_results=5,
+tavily_api_key=st.secrets[TAVILY_API_KEY])
 
 tools = [search_tool, get_weather_data]
 
