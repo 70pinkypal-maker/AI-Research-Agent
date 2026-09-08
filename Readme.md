@@ -51,8 +51,5 @@ conda activate langagent
 pip install -r requirements.txt
 
 
-▶️ Run the Application
-
-From the project root directory:
-
-streamlit run research/app.py
+▶️ LIVE DEMO
+https://ai-research-agent-9nbzcfacjqp7kjcpbvv3jq.streamlit.app/
