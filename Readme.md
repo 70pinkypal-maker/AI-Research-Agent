@@ -42,7 +42,7 @@ AI-Research-Agent/
 ├── requirements.txt
 └── Readme.md
 
-⚙️ Setup
+ # ⚙️ Setup
 1. Create Conda Environment
 conda create -n langagent python=3.11 -y
 2. Activate Environment
@@ -51,5 +51,5 @@ conda activate langagent
 pip install -r requirements.txt
 
 
-▶️ LIVE DEMO
+# ▶️ LIVE DEMO
 [AI Research Agent](https://ai-research-agent-9nbzcfacjqp7kjcpbvv3jq.streamlit.app/)
