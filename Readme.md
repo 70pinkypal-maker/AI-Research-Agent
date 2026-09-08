@@ -41,3 +41,18 @@ AI-Research-Agent/
 │
 ├── requirements.txt
 └── Readme.md
+
+⚙️ Setup
+1. Create Conda Environment
+conda create -n langagent python=3.11 -y
+2. Activate Environment
+conda activate langagent
+3. Install Dependencies
+pip install -r requirements.txt
+
+
+▶️ Run the Application
+
+From the project root directory:
+
+streamlit run research/app.py
