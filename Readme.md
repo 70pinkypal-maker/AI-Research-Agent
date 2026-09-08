@@ -31,7 +31,7 @@ The agent understands user queries and uses external tools such as web search an
 
 ## 📂 Project Structure
 
-```text
+  text
 AI-Research-Agent/
 │
 ├── research/
@@ -53,3 +53,5 @@ pip install -r requirements.txt
 
 # ▶️ LIVE DEMO
 [AI Research Agent](https://ai-research-agent-9nbzcfacjqp7kjcpbvv3jq.streamlit.app/)
+
+
