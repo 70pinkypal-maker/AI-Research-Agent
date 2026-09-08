@@ -52,4 +52,4 @@ pip install -r requirements.txt
 
 
 ▶️ LIVE DEMO
-https://ai-research-agent-9nbzcfacjqp7kjcpbvv3jq.streamlit.app/
+[AI Research Agent](https://ai-research-agent-9nbzcfacjqp7kjcpbvv3jq.streamlit.app/)
